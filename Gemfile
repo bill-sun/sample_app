@@ -15,6 +15,8 @@ group :test do
   gem 'webrat'#, '0.7.1'
 end
 
+gem 'spork'#, '0.8.4'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
