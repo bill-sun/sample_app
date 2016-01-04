@@ -16,6 +16,7 @@ group :test do
 end
 
 gem 'spork'#, '0.8.4'
+gem 'spork-rails'#, :github => 'sporkrb/spork-rails'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
